@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+.menu{
+    margin: 0;
+    background-color: black;
+    color: white;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+}
+.menu li:hover {
+    color: pink;
+}
