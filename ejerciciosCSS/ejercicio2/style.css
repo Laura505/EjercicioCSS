@@ -1,0 +1,20 @@
+body{
+    font-size: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+    background-color: lightblue;
+    line-height ;1.15
+    /*El tamaño de la fuente de la página sea 14px.
+    El tipo de fuente sea Gill sans.
+    El color de la fuente sea marrón.
+    El fondo de la página sea azul claro.
+    El interlineado sea de 1.5. */
+}
+@media all and (min-width: 600px) {
+    h2{
+        background-color: green;
+    }
+    ul{
+        background-color: orange;
+    }
+}
